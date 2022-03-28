@@ -3,7 +3,7 @@
 Install the dependencies...
 
 ```bash
-cd svelte-adminlte
+cd svelte-login
 npm install
 ```
 
